@@ -9,4 +9,4 @@ The most important step was to reduce the dimensionality through methods like PC
 
 Difference between single and combination drugs:
 
-For all the single drugs, lasso with a default penalty of 1 gave the best results. For the combination of Mitomycin and Fulvestrant drugs, a higher penalty of 200 gave us the best results. The approach for Rapamycin-Gefitinib combination was to use a Meta-Logistic-Regression Classifier based on the individual drug responses. We used the predictions of the Rapamycin and Gefitinib as the independent variables for a logistic Regression.
+For all the single drugs, lasso with a default penalty of 1 gave the best results. For the combination of Mitomycin and Fulvestrant drugs, a higher penalty of 200 gave us the best results. The approach for Rapamycin-Gefitinib combination was to use a Meta-Logistic-Regression Classifier based on the individual drug responses. We used the predictions of the Rapamycin and Gefitinib as the independent variables for a logistic Regression. This method proved to be very effective and also impressed the judges
